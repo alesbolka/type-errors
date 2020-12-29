@@ -1,0 +1,2 @@
+Trying to reproduce a VSscode intellisense bug, where it starts showing wrong types for functions.
+In particular, the factory function in the test files seems to be affected. I managed to get it to happen locally with this repo, but once i cloned a fresh copy it was displaying the correct value.
